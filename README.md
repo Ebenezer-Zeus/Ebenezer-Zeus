@@ -6,7 +6,7 @@
 <tr>
 <td valign="top">
 <h3>Olá, eu sou o Ebenézer 👋</h3>
-<p>Analista de Suporte de TI em Guarulhos, SP, fazendo a transição para programação.</p>
+<p>Analista de Suporte de TI em São Paulo, morando em Guarulhos, fazendo a transição para programação.</p>
 <ul>
 <li>💼 Analista de Suporte Júnior na Taas Soluções</li>
 <li>🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio</li>
@@ -22,7 +22,7 @@
 </td>
 <td valign="top">
 <h3>Hi, I'm Ebenézer 👋</h3>
-<p>IT Support Analyst from Guarulhos, Brazil, transitioning into software development.</p>
+<p>IT Support Analyst based in São Paulo, Brazil, transitioning into software development.</p>
 <ul>
 <li>💼 Junior Support Analyst at Taas Soluções</li>
 <li>🎓 Studying Systems Analysis and Development at Estácio</li>
